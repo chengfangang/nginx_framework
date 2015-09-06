@@ -1,4 +1,5 @@
 
 Documentation is available at http://nginx.org
 Nginx version is 1.4.7
+Put your own code to src/test/ folder
 
